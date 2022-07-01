@@ -4,14 +4,20 @@
   box-sizing: 0;
 }
 
+button {
+  opacity: 0;
+}
+
 /* COLORS */
 
 .white {
   color: white;
 }
 
-/* FONT */
+/* CONTAINERS */
 
-.no-decorations {
-  text-decoration: none;
+.container {
+  margin-left: 12rem;
+  margin-right: 12rem;
 }
+

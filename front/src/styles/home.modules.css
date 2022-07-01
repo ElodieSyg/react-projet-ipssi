@@ -1,0 +1,14 @@
+.header-container {
+    background-image: url('../../public/banner.png');
+    height: 50rem;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+}
+
+.title {
+    text-align: center;
+    padding-top: 3rem;
+}
