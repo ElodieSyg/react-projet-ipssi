@@ -102,6 +102,13 @@
             "postalCode": "18690"
         },
         "available": true
+<<<<<<< HEAD
+<<<<<<< HEAD
+    }
+=======
+>>>>>>> main
+=======
+>>>>>>> main
     },    
     {
         "id": 9,
@@ -128,11 +135,49 @@
             "postalCode": "56680"
         },
         "available": true
+<<<<<<< HEAD
+<<<<<<< HEAD
+    }
+    },    
+    {
+        "id": 2,
+        "title": "",
+        "description": "",
+        "image": "",
+        "price": ,
+        "address": {
+            "city": "",
+            "postalCode": "",
+        "available": true
+    }
+    },    
+    {
+        "id": 2,
+        "title": "",
+        "description": "",
+        "image": "",
+        "price": ,
+        "address": {
+            "city": "",
+            "postalCode": "",
+        "available": true
+    }
+    },    {
+        "id": 2,
+        "title": "",
+        "description": "",
+=======
+=======
+>>>>>>> main
     },    
     {
         "id": 11,
         "title": "Club Skiros Palace",
         "description": "Skyros est une île grecque de la mer Égée, appartenant à l'archipel des Sporades. Cette île possède une histoire remarquable, peuplée de héros de la mythologie, de grandes figures byzantines et d'expatriés des temps modernes. Elle accueille aujourd'hui une communauté artistique active. Accordez-vous une pause détente et embarquez pour cette petite île secrète au cœur de la mer Égée ! Réservez votre séjour au Skiros Palace près d'une grande plage de sable fin. Cet hôtel club est idéal pour accueillir toute la famille et mêler activités et farniente. Situé au bord de la mer Égée, au nord-est de l'île, à 50 m de la plage de Gyrismata et au cœur d'un vaste parc arboré. Au Skiros Palace vous profiterez de vos vacances en journée comme en soirée grâce aux animations du Club. Profitez de ce paysage de carte postale : entre pierres, murs blanc et le bleu azur de la mer. Empruntez les navettes pour découvrir Chora, la capitale de Skyros. Ville de Chora Skyros à 5 km (navette gratuite 5 fois/jour), site archéologique de Palamari à 11 km, musée ethnologique et folklorique de Faltaits à 3 km, bars, tavernes et boutiques au village. Aéroport à 15 km.",
+<<<<<<< HEAD
+>>>>>>> main
+=======
+>>>>>>> main
         "image": "",
         "price": 649,
         "address": {
@@ -141,11 +186,25 @@
             "postalCode": "340 07"
         },
         "available": true
+<<<<<<< HEAD
+<<<<<<< HEAD
+    }
+    },    {
+        "id": 2,
+        "title": "",
+        "description": "",
+=======
+=======
+>>>>>>> main
     },    
     {
         "id": 12,
         "title": "Club Jumbo Baya Beach Aqua Park Hôtel",
         "description": "Avec ses plages de sable fin, ses palmeraies, ses souks et ses villages artisanaux, Djerba est la destination idéale pour se dépayser. Très touristique, elle plaît particulièrement aux amateurs de séjours balnéaires. Pour découvrir un autre aspect de l'île et vous imprégner du folklore local, prenez le temps de flâner dans les ruelles des quartiers traditionnels. Les marchés de Midoun sont aussi une étape incontournable pendant le séjour. Envie de vous relaxer dans un authentique hammam après une excursion à travers l'île ? Les nombreux espaces de détente djerbiens vous proposeront toute une palette de soins revigorants et relaxants. Djerba vous promet un séjour synonyme de douceur, de dépaysement et de tranquillité. Le tourisme est au premier rang dans l'économie de l'île, toutefois la riche infrastructure hôtelière a parfaitement su s'intégrer à l'environnement et aux paysages djerbiens. Le club Jumbo Baya Beach Aqua Park Hôtel 3* (normes locales) est situé à environ 25 km de l'aéroport de Djerba, à 4 km environ du village touristique de Midoun avec un accès direct à la plage de Sidi Mahrez, environ 15 km d'Houmt Souk et 25 km de l'aéroport de Djerba, à environ 15 min des animations locales, bars et restaurants. Sa localisation est un point de départ idéal pour la découverte de l'île et du grand sud tunisien. Le club Jumbo Baya Beach Aqua Park Hôtel 3* (normes locales) fait partie d'un vaste complexe composé de 3 parties (Baya Beach, Hacienda et Thalasso) accueillant une clientèle internationale. Proposant des prestations complètes, vous pourrez vous détendre au centre de thalassothérapie (moyennant supplément) ou vous divertir en participant aux diverses activités sportives et animations de l'établissement et en profitant des différentes piscines donc celle avec toboggan. Profitez d'une formule tout compris pour des vacances décontractées et colorées. Du sport à la détente, de la culture au farniente… faites vos jeux ! Votre équipe d'animation Club Jumbo francophone rythme votre séjour à travers des activités sportives, ludiques et authentiques. Une ambiance festive, pour le plus grand bonheur des petits et des grands ! Dans l'hypothèse où l'hôtel Baya Beach serait indisponible, vous serez hébergés à l'hôtel Welcome Meridiana 4*",
+<<<<<<< HEAD
+>>>>>>> main
+=======
+>>>>>>> main
         "image": "",
         "price": 251,
         "address": {
@@ -154,5 +213,25 @@
             "postalCode": "4180"
         },
         "available": true
+<<<<<<< HEAD
+<<<<<<< HEAD
+                }
+    },    {
+        "id": 2,
+        "title": "",
+        "description": "",
+        "image": "",
+        "price": ,
+        "address": {
+            "city": "",
+            "postalCode": "",
+        "available": true
+                }
     }
+=======
+    }, 
+>>>>>>> main
+=======
+    }
+>>>>>>> main
 ]
