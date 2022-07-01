@@ -1,0 +1,4 @@
+# Redirects from what the browser requests to what we serve
+/                   /https://projet-react-ipssi.netlify.app/
+/product/:id        /https://projet-react-ipssi.netlify.app/product/:id
+/faq                /https://projet-react-ipssi.netlify.app/faq
