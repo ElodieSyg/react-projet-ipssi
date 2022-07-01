@@ -8,7 +8,8 @@
         "address": {
             "country": "Espagne",
             "city": "Palma",
-            "postalCode": "07001",
+            "postalCode": "07001"
+        },
         "available": true
     },
     {
@@ -20,7 +21,8 @@
         "address": {
             "country": "République Domonicaine",
             "city": "Punta Cana",
-            "postalCode": "23000",
+            "postalCode": "23000"
+        },
         "available": true
     },
     {
@@ -32,9 +34,10 @@
         "address": {
             "country": "Grèce",
             "city": "Leptokaria",
-            "postalCode": "600 63",
+            "postalCode": "600 63"
+        },
         "available": true
-    },    
+    },
     {
         "id": 4,
         "title": "Hôtel Ramada Attica Riviera",
@@ -44,19 +47,21 @@
         "address": {
             "country": "Grèce",
             "city": "Vravrona",
-            "postalCode": "190 03",
+            "postalCode": "190 03"
+        },
         "available": true
     },    
     {
         "id": 5,
         "title": "Club Jumbo Dar Khayam",
-        "description": "Hammamet est une station balnéaire qui s'étend sur 4 km de littoral tunisien : vous y découvrirez des jardins aménagés, deux golfs, une agréable esplanade face à la plage, lieu idéal de promenade, ainsi que de nombreux bars, discothèques, restaurants, casino, parc de jeux et de loisirs et même une médina reconstituée autour de son souk. La ville d 'Hammamet, quant à elle, distante de quelques kilomètres, vous offrira les charmes d'un "Saint-Tropez à la tunisienne". Station balnéaire favorite des riches autochtones, nichée au cœur du Cap Bon, Hammamet est aussi la ville des bougainvilliers, du jasmin et de sa fameuse fleur d'oranger dont l'eau serait bienfaitrice. Le cœur pittoresque et authentique d 'Hammamet réside dans sa médina : son fort, ses murs blanchis à la chaux. Sa forteresse, les pieds dans l'eau, mérite une visite. Nul besoin de partir très loin pour faire un beau voyage, l'évasion est à la portée de tous ! Le Dar Khayam 3* vous accueille pour des vacances placées sous le signe de la détente. Idéalement construit au bord de la mer, l'hôtel vous donne accès aux plus belles plages d 'Hammamet. Une fois que vous aurez fait le plein de vitamine D, vous pourrez vous diriger vers le centre ville, facile d'accès depuis votre hôtel. De nombreuses activités sportives sont disponibles à l'hôtel ou en bord de mer. Enfin le Spa et ses offres de massages ou soins vous aideront à vous relaxer complètement durant votre séjour. Aéroports de Tunis à 60 km, de Monastir à 90 km. A proximité : - Nabeul et Hammamet à 6 km. - Tunis à 60 km. - Friguia / Parc Animalier / Cathage land à <50 km. Profitez d'une formule tout compris pour des vacances décontractées et colorées. Du sport à la détente, de la culture au farniente… faites vos jeux ! Votre équipe d'animation Club Jumbo francophone rythme votre séjour à travers des activités sportives, ludiques et authentiques. Une ambiance festive, pour le plus grand bonheur des petits et des grands ! Attention : mise en place du concept Jumbo à compter du 15/7/22. Avant cette date, pas d'équipe Jumbo et les animations seront gérées directement par l'hôtel (voir les rubriques dédiées).",
+        "description": "Hammamet est une station balnéaire qui s'étend sur 4 km de littoral tunisien : vous y découvrirez des jardins aménagés, deux golfs, une agréable esplanade face à la plage, lieu idéal de promenade, ainsi que de nombreux bars, discothèques, restaurants, casino, parc de jeux et de loisirs et même une médina reconstituée autour de son souk. La ville d 'Hammamet, quant à elle, distante de quelques kilomètres, vous offrira les charmes d'un \"Saint-Tropez à la tunisienne\". Station balnéaire favorite des riches autochtones, nichée au cœur du Cap Bon, Hammamet est aussi la ville des bougainvilliers, du jasmin et de sa fameuse fleur d'oranger dont l'eau serait bienfaitrice. Le cœur pittoresque et authentique d 'Hammamet réside dans sa médina : son fort, ses murs blanchis à la chaux. Sa forteresse, les pieds dans l'eau, mérite une visite. Nul besoin de partir très loin pour faire un beau voyage, l'évasion est à la portée de tous ! Le Dar Khayam 3* vous accueille pour des vacances placées sous le signe de la détente. Idéalement construit au bord de la mer, l'hôtel vous donne accès aux plus belles plages d 'Hammamet. Une fois que vous aurez fait le plein de vitamine D, vous pourrez vous diriger vers le centre ville, facile d'accès depuis votre hôtel. De nombreuses activités sportives sont disponibles à l'hôtel ou en bord de mer. Enfin le Spa et ses offres de massages ou soins vous aideront à vous relaxer complètement durant votre séjour. Aéroports de Tunis à 60 km, de Monastir à 90 km. A proximité : - Nabeul et Hammamet à 6 km. - Tunis à 60 km. - Friguia / Parc Animalier / Cathage land à <50 km. Profitez d'une formule tout compris pour des vacances décontractées et colorées. Du sport à la détente, de la culture au farniente… faites vos jeux ! Votre équipe d'animation Club Jumbo francophone rythme votre séjour à travers des activités sportives, ludiques et authentiques. Une ambiance festive, pour le plus grand bonheur des petits et des grands ! Attention : mise en place du concept Jumbo à compter du 15/7/22. Avant cette date, pas d'équipe Jumbo et les animations seront gérées directement par l'hôtel (voir les rubriques dédiées).",
         "image": "",
         "price": 295,
         "address": {
             "country": "Tunisie",
             "city": "Tunis",
-            "postalCode": "1000",
+            "postalCode": "1000"
+        },
         "available": true
     },    
     {
@@ -68,7 +73,8 @@
         "address": {
             "country": "Turquie",
             "city": "Bodrum",
-            "postalCode": "48440",
+            "postalCode": "48440"
+        },
         "available": true
     },    
     {
@@ -80,7 +86,8 @@
         "address": {
             "country": "Italie",
             "city": "Pouilles",
-            "postalCode": "52100",
+            "postalCode": "52100"
+        },
         "available": true
     }, 
     {
@@ -92,7 +99,8 @@
         "address": {
             "country": "Espagne",
             "city": "Almuñecar",
-            "postalCode": "18690",
+            "postalCode": "18690"
+        },
         "available": true
     },    
     {
@@ -104,7 +112,8 @@
         "address": {
             "country": "Grèce",
             "city": "Athènes",
-            "postalCode": "340 08",
+            "postalCode": "340 08"
+        },
         "available": true
     },    
     {
@@ -116,7 +125,8 @@
         "address": {
             "country": "Tunisie",
             "city": "Morbihan",
-            "postalCode": "56680",
+            "postalCode": "56680"
+        },
         "available": true
     },    
     {
@@ -128,7 +138,8 @@
         "address": {
             "country": "Grèce",
             "city": "Skyros",
-            "postalCode": "340 07",
+            "postalCode": "340 07"
+        },
         "available": true
     },    
     {
@@ -140,7 +151,8 @@
         "address": {
             "country": "Tunisie",
             "city": "Djerba",
-            "postalCode": "	4180",
+            "postalCode": "4180"
+        },
         "available": true
-    }, 
+    }
 ]
