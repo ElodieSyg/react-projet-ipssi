@@ -3,25 +3,27 @@
         "id": 1,
         "title": "Club Jumbo Palia Dolce Farniente",
         "description": "Des vacances décontractées avec du sport, de la culture, de la détente ou du farniente, faites vos jeux ! Les vacances club en famille, entre amis, à prix malin !",
-        "image": "",
+        "image": "../../public/1.webp",
         "price": 386,
         "address": {
             "country": "Espagne",
             "city": "Palma",
             "postalCode": "07001",
         "available": true
+        }
     },
     {
         "id": 2,
         "title": "Club Jumbo Vista Sol Punta Cana Beach Resort & Spa",
         "description": "Destination idéale tout au long de l'année au cœur des Caraïbes, la République Dominicaine est célèbre pour ses kilomètres de plages. Au sud-est de l'île, vous séjournez à Punta Cana et ses environs. Le charme de Bayahibe avec ses forêts de cocotiers ou celui de la plage de Bavaro, classée parmi les plus belles plages au monde, n'échappera à aucun visiteur. De multiples activités orientées vers la mer s'offriront à vous, comme la plongée et bien d'autres sports nautiques. Explorez aussi l'arrière pays verdoyant ainsi que la vie sauvage qui y règne. Et profitez de la formule Tout Inclus, si complète ! Ambiance caliente garantie ! Le Club Jumbo Vista Sol Punta Cana Beach Resort & Spa 4* (normes locales) est situé directement sur la plage de Bavaro. Ce complexe installé en bord de plage et en formule tout compris bénéficie d'un cadre très naturel avec de vastes jardins tropicaux et des oiseaux exotiques. Le Club Jumbo Vista Sol Punta Cana Beach Resort & Spa 4* (normes locales) est un lieu de vacances idéal pour les couples de tous âges, les amis, les familles ou tout simplement pour s'évader, dans une ambiance conviviale et typiquement caribéenne. Profitez d'une formule tout compris pour des vacances décontractées et colorées. Du sport à la détente, de la culture au farniente… faites vos jeux ! Votre équipe d'animation Club Jumbo francophone et internationale rythme votre séjour à travers des activités sportives, ludiques et authentiques. Pour le plus grand bonheur de tous ! Le village d'El Cortecito, seul village local dans la région de Bávaro est à 150 m à pied de l'hôtel. Cela vous offre la possibilité de faire une promenade dans les rues du village. L'aéroport international de Punta Cana est à 25 km. L'aéroport de Saint Domingue Las Americas est à à 2 heures.",
-        "image": "",
+        "image": "../../public/2.webp",
         "price": 796,
         "address": {
             "country": "République Domonicaine",
             "city": "Punta Cana",
             "postalCode": "23000",
         "available": true
+        }
     },
     {
         "id": 3,
@@ -34,6 +36,7 @@
             "city": "Leptokaria",
             "postalCode": "600 63",
         "available": true
+    }
     },    
     {
         "id": 4,
@@ -46,6 +49,7 @@
             "city": "Vravrona",
             "postalCode": "190 03",
         "available": true
+    }
     },    
     {
         "id": 5,
@@ -58,6 +62,7 @@
             "city": "Tunis",
             "postalCode": "1000",
         "available": true
+    }
     },    
     {
         "id": 6,
@@ -70,6 +75,7 @@
             "city": "Bodrum",
             "postalCode": "48440",
         "available": true
+    }
     },    
     {
         "id": 7,
@@ -82,6 +88,7 @@
             "city": "Pouilles",
             "postalCode": "52100",
         "available": true
+    }
     }, 
     {
         "id": 8,
@@ -94,7 +101,9 @@
             "city": "Almuñecar",
             "postalCode": "",
         "available": true
-    },    {
+    }
+    },    
+    {
         "id": 9,
         "title": "",
         "description": "",
@@ -114,6 +123,31 @@
             "city": "",
             "postalCode": "",
         "available": true
+    }
+    },    
+    {
+        "id": 2,
+        "title": "",
+        "description": "",
+        "image": "",
+        "price": ,
+        "address": {
+            "city": "",
+            "postalCode": "",
+        "available": true
+    }
+    },    
+    {
+        "id": 2,
+        "title": "",
+        "description": "",
+        "image": "",
+        "price": ,
+        "address": {
+            "city": "",
+            "postalCode": "",
+        "available": true
+    }
     },    {
         "id": 2,
         "title": "",
@@ -124,6 +158,7 @@
             "city": "",
             "postalCode": "",
         "available": true
+    }
     },    {
         "id": 2,
         "title": "",
@@ -134,6 +169,7 @@
             "city": "",
             "postalCode": "",
         "available": true
+                }
     },    {
         "id": 2,
         "title": "",
@@ -144,25 +180,6 @@
             "city": "",
             "postalCode": "",
         "available": true
-    },    {
-        "id": 2,
-        "title": "",
-        "description": "",
-        "image": "",
-        "price": ,
-        "address": {
-            "city": "",
-            "postalCode": "",
-        "available": true
-    },    {
-        "id": 2,
-        "title": "",
-        "description": "",
-        "image": "",
-        "price": ,
-        "address": {
-            "city": "",
-            "postalCode": "",
-        "available": true
-    },x
+                }
+    }
 ]
