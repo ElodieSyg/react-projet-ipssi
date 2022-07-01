@@ -16,7 +16,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "prettier": "prettier --write ."
+    "prettier": "yarn run prettier --write .",
+    "prepare": "husky install",
+    "precommit": "husky add .husky/pre-commit 'yarn run build'"
   },
   "eslintConfig": {
     "extends": [
@@ -35,9 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "husky": "8.0.1",
-    "prettier": "2.7.1"
   }
 }

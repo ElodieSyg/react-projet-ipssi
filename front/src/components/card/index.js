@@ -1,6 +1,14 @@
-const Card = () => {
+// CSS importation
+import "../../styles/card.modules.css";
+
+const Card = props => {
+    console.log(props)
     return (
-        <div>Card</div>
+        <div className="card-container">
+            <img src={props.data.image} alt={props.data.id} />
+            <h4>{props.data.title}</h4>
+            <p>{props.data.price}</p>
+        </div>
     );
 };
 

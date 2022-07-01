@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import Router from "./components/router/index";
 
-function App() {
+const App = () => {
   return (
-    <div>Site web</div>
+    <Router />
   );
-}
+};
 
 export default App;
