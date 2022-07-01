@@ -1,0 +1,22 @@
+.faq {
+  padding-top: 10vh;
+  max-width: 960px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+}
+h3 {
+  padding-top: 5vh;
+  font-size: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 10px;
+  color: #444;
+}
+
+p {
+  margin-bottom: 1.5em;
+  color: #000;
+}
