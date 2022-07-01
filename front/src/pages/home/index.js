@@ -1,6 +1,13 @@
+// Components importations
+import Card from "../../components/card/index";
+// Data importation
+import Data from "../../data/data.json";
+
 const Home = () => {
     return (
-        <div>Home</div>
+        Data.map(data => (
+            <Card key={data.id} data={data} />
+        ))
     );
 };
 
