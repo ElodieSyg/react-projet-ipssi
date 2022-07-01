@@ -36,7 +36,7 @@ const Home = () => {
                     <Navbar />
                     <input type="text" placeholder="Que recherchez-vous ?" onChange={e => searchText(e.target.value)}></input>
                 </header>
-                <h1 className="title">NOS OFFRES DE VOYAGE</h1>
+                <p className="title">NOS OFFRES DE VOYAGE</p>
                 <section className="container card-container">
                     {
                         !isFilter

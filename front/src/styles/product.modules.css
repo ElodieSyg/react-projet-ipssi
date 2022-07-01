@@ -1,0 +1,14 @@
+.product-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.m1 {
+    margin: 1rem;
+    font-family: 'Karla', sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}

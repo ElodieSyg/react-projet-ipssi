@@ -8,7 +8,7 @@ const Card = props => {
                 <h3 className="white pb-1">{props.data.title}</h3>
                 <p className="white pb-1">{props.data.address.country}, {props.data.address.city}</p>
                 <p className="white pb-1">{props.data.price} €</p>
-                <a href="/product" className="no-decorations">
+                <a href={`/product/${props.data.id}`} className="no-decorations">
                     <button>Voir plus</button>
                 </a>
             </div>
