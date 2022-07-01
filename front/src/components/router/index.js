@@ -4,6 +4,7 @@ import Home from "../../pages/home/index";
 import Product from "../../pages/product/index";
 import Faq from "../../pages/faq/index";
 import NotFound from "../../pages/error/index";
+// Components importations
 
 const Router = () => {
     return (
