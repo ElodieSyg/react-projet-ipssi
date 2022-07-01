@@ -6,6 +6,7 @@
         "image": "",
         "price": 386,
         "address": {
+            "country": "Espagne",
             "city": "Palma",
             "postalCode": "07001",
         "available": true
@@ -17,6 +18,7 @@
         "image": "",
         "price": 796,
         "address": {
+            "country": "République Domonicaine",
             "city": "Punta Cana",
             "postalCode": "23000",
         "available": true
@@ -28,6 +30,7 @@
         "image": "",
         "price": 638,
         "address": {
+            "country": "Grèce",
             "city": "Leptokaria",
             "postalCode": "600 63",
         "available": true
@@ -39,6 +42,7 @@
         "image": "",
         "price": 542,
         "address": {
+            "country": "Grèce",
             "city": "Vravrona",
             "postalCode": "190 03",
         "available": true
@@ -50,6 +54,7 @@
         "image": "",
         "price": 295,
         "address": {
+            "country": "Tunisie",
             "city": "Tunis",
             "postalCode": "1000",
         "available": true
@@ -61,29 +66,32 @@
         "image": "",
         "price": 729,
         "address": {
-            "city": "",
-            "postalCode": "",
+            "country": "Turquie",
+            "city": "Bodrum",
+            "postalCode": "48440",
         "available": true
     },    
     {
         "id": 7,
-        "title": "",
-        "description": "",
+        "title": "Club Framissima Ti Blu Village",
+        "description": "Partez à la découverte de la botte secrète de l'Italie : direction la région de Basilicate ! Historiquement nommée Lucanie, Basilicate est une terre pleine de charme qui regorge de villages anciens nichés au cœur d'un relief essentiellement montagneux. Située dans la cambrure de la botte italienne, elle est entourée par la région des Pouilles, de Campanie et de Calabre. Elle dispose de deux façades maritimes avec la mer Ionienne au sud-est et la mer Tyrrhénienne à l'ouest. Son caractère typique du Sud de l'Italie, son patrimoine préservé et son environnement naturel, en font l'endroit idéal pour passer des vacances authentiques ! Réservez votre séjour au Framissima Ti Blu Village 4* ! Le Framissima Ti Blu Village 4* (normes locales) est situé à Marina di Pisticci dans la région de Basilicate sur la côte Sud de l'Italie au bord de la mer Ionienne. Face à une pinède de 35 hectares et à seulement 600 mètres d'une plage privée, accessible en petit train ou à pied par un sentier ombragé, ce complexe familial vous plonge dans un cadre typiquement méditerranéen. L'établissement propose un large choix de divertissements et d'activités sportives. C'est également un point de départ idéal pour découvrir l'Italie du Sud, hors des sentiers battus. Concept Framissima à partir du 01/07/22 : Petits et grands seront séduits par les activités et animations proposées par nos pilotes-vacances Fram. Pour des vacances dans la bonne humeur en famille comme entre amis ! Enfin, notre chef de centre sera présent pour veiller au bon déroulement et à la qualité de votre séjour. Il vous apportera son conseil et un suivi personnalisé pour des vacances en toute sérénité. A proximité : - Metaponto (14 km) et ses ruines archéologiques. - Pisticci (25 km), son quartier de Dirupo inscrit sur la liste des "100 Merveilles de l'Italie à sauvegarder". - Valsinni (50 km), petit bourg médiéval entre mer et montagnes. - Matera (60 km), cité troglodyte avec ses églises rupestres et ses sassi classés au patrimoine mondial de l'Unesco. - Alberobello (85 km), dans la région des Pouilles et ses trullis classés au patrimoine mondial de l'Unesco. L'aéroport de Bari se trouve à 110 km et l'aéroport de Brindisi à 130 km.",
         "image": "",
-        "price": ,
+        "price": 950,
         "address": {
-            "city": "",
-            "postalCode": "",
+            "country": "Italie",
+            "city": "Pouilles",
+            "postalCode": "52100",
         "available": true
-    },    
+    }, 
     {
         "id": 8,
-        "title": "",
+        "title": "Club Jumbo Best Alcazar",
         "description": "",
         "image": "",
         "price": ,
         "address": {
-            "city": "",
+            "country": "Espagne",
+            "city": "Almuñecar",
             "postalCode": "",
         "available": true
     },    {
