@@ -1,8 +1,12 @@
+// Component importation
+import Navbar from "../../components/navbar";
+// CSS importation
 import "../../styles/faq.modules.css";
 
 const Faq = () => {
     return (
         <div className="faq">
+            <Navbar />
             <h2>FAQ</h2>
             <div>
                 <h3>Why Should I Use a Travel Agent to Book a Vacation?</h3>
